@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/lindaoranya/Desktop/ML-Ops/mlops/02-mlflow/experiment-tracking-task/mlruns/0/7fc699f74f244a8fb296a7fd65f36ef5/artifacts
+end_time: 1717070282706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fc699f74f244a8fb296a7fd65f36ef5
+run_name: loud-zebra-16
+run_uuid: 7fc699f74f244a8fb296a7fd65f36ef5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717070279616
+status: 4
+tags: []
+user_id: lindaoranya
